@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/tsi213aula07/app/src/main/res/layout/activity_bottom_navigation.xml" value="0.22" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/tsi213aula07/app/src/main/res/layout/activity_nv.xml" value="0.18" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/tsi213aula07/app/src/main/res/menu/bottomnav.xml" value="0.25" />
         <entry key="..\:/Users/fabio/AndroidStudioProjects/Aula08Examples/app/src/main/res/layout/activity_bottom_navigation.xml" value="0.11354166666666667" />
         <entry key="..\:/Users/fabio/AndroidStudioProjects/Aula08Examples/app/src/main/res/layout/activity_material_components.xml" value="0.536" />
         <entry key="..\:/Users/fabio/AndroidStudioProjects/Aula08Examples/app/src/main/res/layout/activity_nv.xml" value="0.1956521739130435" />
